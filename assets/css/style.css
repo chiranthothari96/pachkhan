@@ -1,0 +1,41 @@
+body{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.inside-container{
+	height: 175px;
+	background: #00bcf4;
+	color: white;
+	width: 100%;
+}
+.song{
+	width: 100%;
+	position: relative;
+	bottom: -42px;
+}
+.titleText{
+	padding-top: 50px;
+}
+.extra{
+	color: #00bcd4;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 44px;
+}
+/*footer*/
+#footer{
+	height: auto;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+#footer a{
+	color: #0078d7;
+}
+#footer-in{
+	height: auto;
+	background-color: #37393c;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+	/*end of footer*/
